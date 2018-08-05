@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.principal{
+    background: url(../img/Home_3.jpg) no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.titulo{
+	padding-top: 150px;
+}
+
+h1{
+     font-size: 60px;
+}
+
+.subtitulo{
+    
+}
+.sobre{
+    background-color: black;
+    color: white;
+    padding-bottom: 60px;
+}
+
+.speakers {
+	background-color: #f2f0f2;
+}
+.speaker img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+.speaker h5{
+	color: #00f0ff;
+}
+
+.botao {
+    background-color: #00ff37;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.botao2 {
+    background-color: #00ff37;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.local{
+    background-color: #00f0ff;
+    width: 100%;
+}
+
+.hashtag{
+    background-color: black;
+    color: white;
+}
+
+.hashtag hr {
+	background-color: white;
+}
+
+footer{
+    background-color: black;
+}
