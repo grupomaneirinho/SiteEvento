@@ -21,11 +21,21 @@ h1{
      font-size: 60px;
 }
 
-.subtitulo{
-    
-}
-.sobre{
+.patrocinadores{
     background-color: black;
+    color: white;
+}
+
+.patrocionios img{
+    width: 200px;
+}
+
+.patrocinadores .max{
+    width: 300px;	
+}
+
+.sobre{
+    background-color: #303030;
     color: white;
     padding-bottom: 60px;
 }
