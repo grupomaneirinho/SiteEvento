@@ -21,7 +21,7 @@ a:link{
 }
 
 .principal{
-    background: url(../img/Home_3.jpg) no-repeat;
+    background: url(../img/Arena-Max-Header.jpg) no-repeat;
     width: 100%;
     background-size: cover;
 }
@@ -30,16 +30,19 @@ a:link{
 	margin-top: 150px;
     font-size: 55px;
     font-weight: bold;
-    background-color: rgba(255, 251, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
 }
 .titulo h2{
-    background-color: rgba(255, 251, 255, 0.5);
-    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 27px;
+    color: white;
 }
 
 .titulo h3{
-    background-color: rgba(255, 251, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 30px;
+    color: white;
 }
 
 .patrocinadores{
@@ -73,20 +76,21 @@ a:link{
 }
 
 .speaker h5{
-	color: #00f0ff;
+	color: #00C766;
 }
 
 .botao,
 .botao2{
-    background-color: #00ff37;
+    background-color: #009627;
     color: black;
     font-weight: bold;
     font-size: 30px;
     border-color: black;
+    box-shadow: 5px 5px 5px rgba(0,150,39,0.4);
 }
 
 .local{
-    background-color: #00F07B;
+    background-color: #00C766;
     width: 100%;
 }
 
@@ -117,11 +121,11 @@ footer{
 
 .botao:hover {
 	background-color: black;
-    color: #00ff37;
-    border-color: #00ff37;
+    color: #009627;
+    border-color: #009627;
 }
 .botao2:hover {
 	background-color: white;
-    color:#00ff37;
-    border-color: #00ff37;
+    color:#009627;
+    border-color: #009627;
 }
